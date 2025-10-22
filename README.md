@@ -2,12 +2,15 @@
 
 **`FullStack Developer`**
 
-Me chamo Miller, tenho 20 anos, nascido no estado do Rio Grande do Sul (Brasil). Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) na UNINTER, sou apaixonado por tech e motos.<br><br>
-Meu currículo pode ser achado em: [Curriculum Vitae](https://varmundt.github.io/curriculum-vitae/)
+My name is Mauricio Miller, I’m 20 years old, born in the state of Rio Grande do Sul, Brazil.
+I’m currently pursuing a degree in Systems Analysis and Development (ADS) at UNINTER.
+I’m passionate about technology and motorcycles.
+
+My resume can be found at: [Curriculum Vitae](https://varmundt.github.io/curriculum-vitae/)
 
 ---
 
-### 📚 Linguagens e Tecnologias
+### 📚 Languages and Tools
 
 <img 
     align="left" 
@@ -69,10 +72,36 @@ Meu currículo pode ser achado em: [Curriculum Vitae](https://varmundt.github.io
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -80,14 +109,14 @@ Meu currículo pode ser achado em: [Curriculum Vitae](https://varmundt.github.io
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Varmundt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Varmundt&show_icons=true&theme=tokyonight&include_all_commits=true&locale=" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varmundt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varmundt&theme=tokyonight&layout=compact&custom_title=Tools&langs_count=9" 
   />
 
 </p>
