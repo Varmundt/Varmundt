@@ -1,7 +1,5 @@
 #  Mauricio Miller Oliveira
 
-## ⚙️ Back-End Developer | C# | .NET | ASP.NET Web API
-
 Hello! I'm a **Systems Analysis and Development** student at UNINTER focused on back-end development. Passionate about technology and always seeking to learn new tools and techniques.
 
 🎯 **Currently:** Looking for an internship opportunity to apply technical knowledge and grow professionally
@@ -31,22 +29,6 @@ My resume can be found at: [Curriculum Vitae](https://varmundt.github.io/curricu
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-
----
-
-## 🎓 Education
-
-**Technologist in Systems Analysis and Development**  
-🏫 UNINTER - International University Center  
-📆 May 2025 - Jun 2027
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varmundt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varmundt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
