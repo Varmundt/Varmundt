@@ -2,8 +2,6 @@
 
 Hello! I'm a **Systems Analysis and Development** student at UNINTER focused on back-end development. Passionate about technology and always seeking to learn new tools and techniques.
 
-🎯 **Currently:** Looking for an internship opportunity to apply technical knowledge and grow professionally
-
 My resume can be found at: [Curriculum Vitae](https://varmundt.github.io/curriculum-vitae/)
 
 ---
