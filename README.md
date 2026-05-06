@@ -1,28 +1,38 @@
 #  Mauricio Miller Oliveira
 
-Hello! I'm a **Systems Analysis and Development** student at UNINTER focused on back-end development. Passionate about technology and always seeking to learn new tools and techniques.
+Hello! I'm a **Systems Analysis & Development** student with experience as a Technical Support Engineer (L2) at TOTVS Linx, specializing in root cause analysis and high-availability systems. Currently transitioning into DevOps & SRE, leveraging a strong background in C#/.NET and Python to automate infrastructure and optimize CI/CD pipelines. Passionate about Cloud Computing, Observability, and ensuring system reliability through code.
 
-My resume can be found at: [Curriculum Vitae](https://varmundt.github.io/curriculum-vitae/)
+You can view my full professional background and skills in my [Resume](https://varmundt.github.io/Resume/)
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-001E36?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)
+![Docker](https://img.shields.io/badge/Docker-001E36?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-001E36?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-001E36?style=for-the-badge&logo=terraform&logoColor=7B42BC)
 
+![Git](https://img.shields.io/badge/Git-001E36?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-001E36?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-001E36?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-001E36?style=for-the-badge&logo=azuredevops&logoColor=0078D7)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-001E36?style=for-the-badge&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-001E36?style=for-the-badge&logo=grafana&logoColor=F46800)
+![ELK](https://img.shields.io/badge/ELK_Stack-001E36?style=for-the-badge&logo=elastic-stack&logoColor=005571)
+![Graylog](https://img.shields.io/badge/Graylog-001E36?style=for-the-badge&logo=graylog&logoColor=FF3C00)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-001E36?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-001E36?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-001E36?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Flask](https://img.shields.io/badge/Python_/_Flask-001E36?style=for-the-badge&logo=flask&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-001E36?style=for-the-badge&logo=oracle&logoColor=F80000)
+![MySQL](https://img.shields.io/badge/MySQL-001E36?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+![Linux](https://img.shields.io/badge/Linux-001E36?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-001E36?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-001E36?style=for-the-badge&logo=servicenow&logoColor=293E40)
+![Jira](https://img.shields.io/badge/Jira-001E36?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 ---
